@@ -1,0 +1,12 @@
+[submodule "modules/MMM-CalendarExt3"]
+	path = modules/MMM-CalendarExt3
+	url = https://github.com/eouia/MMM-CalendarExt3.git
+[submodule "modules/MMM-Remote-Control"]
+	path = modules/MMM-Remote-Control
+	url = https://github.com/Jopyth/MMM-Remote-Control.git
+[submodule "modules/MMM-Tankerkoenig"]
+	path = modules/MMM-Tankerkoenig
+	url = https://github.com/fewieden/MMM-Tankerkoenig.git
+[submodule "modules/MMM-WiFiPassword"]
+	path = modules/MMM-WiFiPassword
+	url = https://github.com/ianperrin/MMM-WiFiPassword.git
